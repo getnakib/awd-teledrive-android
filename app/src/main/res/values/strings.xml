@@ -1,12 +1,12 @@
 <resources>
-    <string name="app_name">Awd TeleDrive</string>
-    <string name="welcome_title">Welcome to Awd TeleDrive</string>
+    <string name="app_name">Drivo</string>
+    <string name="welcome_title">Welcome to Drivo</string>
     <string name="auto_backup">Auto Backup</string>
     <string name="backup_settings">Backup Settings</string>
     <string name="backup_description">Automatically upload new photos and videos to Telegram.</string>
     <string name="last_backup">Last backup: %s</string>
     <string name="backup_now">Backup Now</string>
-    <string name="biometric_login_title">Biometric login for Awd TeleDrive</string>
+    <string name="biometric_login_title">Biometric login for Drivo</string>
     <string name="search_placeholder">Search in drive...</string>
     <string name="total_used">Total used: %s</string>
     <string name="drive_empty">Drive is empty</string>
